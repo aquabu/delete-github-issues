@@ -1,0 +1,12 @@
+{
+  "name": "gh-issues-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Noah Thorp <noah@comakery.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@octokit/graphql": "^4.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
