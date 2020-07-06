@@ -2,7 +2,7 @@ require('dotenv').config()
 const { graphql } = require("@octokit/graphql")
 
 const auth_token = process.env.GITHUB_PERSONAL_ACCESS_TOKEN
-const issuesToDelete = 100
+const numberOfIssuesToDelete = 100
 
 async function deleteIssue(issueId) {
   await graphql(
@@ -28,7 +28,7 @@ graphql(
     `
       {
         repository(owner: "CoMakery", name: "comakery-app") {
-          issues(last: ${issuesToDelete}) {
+          issues(last: ${numberOfIssuesToDelete}) {
             edges {
               node {
                 id
