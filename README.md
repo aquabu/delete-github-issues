@@ -28,7 +28,7 @@ This is a node command line script using yarn as package management.
 
 # Troubleshooting
 
-When you are deleting several hundred issues you might get a cool down warning from GitHub saying `RequestError [HttpError]: You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.`. 
+When you are deleting several hundred issues you might get a cool down warning from GitHub saying `RequestError [HttpError]: You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.` 
 I suggest waiting a few minutes and then try again.
 
 You might get an an access error for your personal access token. You may need to add more permissions for your Personal Access Token on https://github.com/settings/tokens
