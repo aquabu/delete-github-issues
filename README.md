@@ -1,6 +1,6 @@
 # Delete Issues Script
 
-This is a quick script to delete GitHub issues.
+This is a quick script to delete GitHub issues. It's [open source](LICENSE).
 
 ## Why would you want to delete a repository's issues?
 
