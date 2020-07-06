@@ -1,4 +1,4 @@
-# Delete Issues Script
+# Delete GitHub Issues Script
 
 This is a quick script to delete GitHub issues. It's [open source](LICENSE).
 
