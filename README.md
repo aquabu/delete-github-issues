@@ -4,7 +4,7 @@ This is a quick script to delete GitHub issues. It's [open source](LICENSE).
 
 ## Why would you want to delete a repository's issues?
 
-Imagine you have a longstanding private repository that you want to open source. There are hundreds of issues... including stack traces and such. In order to open source the repository you have to delete all the issues. The author of this script had such a problem and imagines there are others in a similar jam... stuck between Octocat and Charybdis or something like that.
+Imagine you have a longstanding private repository that you want to open source. There are like a thousand issues... including stack traces and such. In order to open source the repository you have to delete all the issues. The author of this script had such a problem and imagines there are others in a similar jam... stuck between Octocat and Charybdis or something like that.
 
 ## Can't you just delete them through the GitHub web UI?
 
